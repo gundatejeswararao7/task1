@@ -1,1 +1,1 @@
-# task1
+This task demonstrates how to perform network scanning using nmap, a powerful open-source network discovery and security auditing tool. The objective is to identify live hosts, open ports and potential security risks within a local network
